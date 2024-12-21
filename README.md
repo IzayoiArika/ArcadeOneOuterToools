@@ -2,7 +2,4 @@
 为Arcade-One写谱设计的简单js和lua。 Simple JavaScrpits and Luas Designed for Arcade-One Charting.
 感谢yyyr提供的实例代码。 Thanks to yyyr for example codes.
 
-## 列表 Tool List
-* arc_zigzags.js
-折线蛇工具。 Zigzag arcs generator. Also included parallel(ish) arcs (eg. 7thSense Future) and something like World Ender Beyond.
-* To be completed...
+我也不知道这里面有啥，你们自己下着玩吧（
